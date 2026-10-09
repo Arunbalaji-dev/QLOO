@@ -1,0 +1,16 @@
+# Secrets: never upload these
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Raw Qloo responses saved while developing
+raw/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
